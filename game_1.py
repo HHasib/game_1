@@ -1,7 +1,6 @@
+#Abu Hasnat Hasib
+
 from sys import exit
-
-
-
 	
 def points(scr):
 	score = 0
